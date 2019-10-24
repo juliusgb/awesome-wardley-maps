@@ -84,9 +84,16 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
 
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+- [Figma Wardley Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - Wardley Mapping Template for Figma.
 
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
+- [LaTex for Wardley Maps](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
+
+- [Mapscript Mapping Tool](mapscript.org/nb) - Mapping tool based on Observable that also has a textual description of the Map. There's also a corresponding walkthrough video - https://youtu.be/i_6bvEfGLD8 
+
+- [Omnigraffle Mapping Template](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+
+- [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
+
 
 ## Newsletters
 
